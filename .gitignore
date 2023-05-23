@@ -1,0 +1,15 @@
+*.log
+*.png
+.DS_Store
+*.pyc
+*/__pycache__
+*.pth
+*.nii.gz
+predictions/*
+test
+test2
+eval/*
+A. Segmentation*
+segmentation*
+*.zip
+remake_cuda.sh
